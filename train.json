@@ -1,0 +1,24 @@
+{
+  "images": [
+    {
+      "file_name": "Screenshot 2025-04-16 195456.png",
+      "ground_truth": "class: referral letter"
+    },
+    {
+      "file_name": "Screenshot 2025-04-16 195317.png",
+      "ground_truth": "class: MC"
+    },
+    {
+      "file_name": "Screenshot 2025-04-13 173411.png",
+      "ground_truth": "class: tax invoice"
+    },
+    {
+      "file_name": "Screenshot 2025-04-16 195452.png",
+      "ground_truth": "class: MC"
+    },
+    {
+      "file_name": "Screenshot 2025-04-13 173407.png",
+      "ground_truth": "class: MC"
+    }
+  ]
+}
